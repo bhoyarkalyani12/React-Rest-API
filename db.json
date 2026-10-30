@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "name": "Kalyani Deshmukh",
+      "email": "sneha@gmail.com",
+      "age": 24,
+      "mobile": "7654328754",
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "name": "Rohit Singh",
+      "age": 26,
+      "email": "rohit@gmail.com",
+      "mobile": "9876543214",
+      "city": "Delhi"
+    },
+    {
+      "id": "6",
+      "name": "Neha Gupta",
+      "age": 22,
+      "email": "neha@gmail.com",
+      "mobile": "9876543215",
+      "city": "Pune"
+    },
+    {
+      "id": "7",
+      "name": "Akash Joshi",
+      "age": 28,
+      "email": "akash@gmail.com",
+      "mobile": "9876543216",
+      "city": "Nashik"
+    },
+    {
+      "id": "8",
+      "name": "Pooja Yadav",
+      "age": 25,
+      "email": "pooja@gmail.com",
+      "mobile": "9876543217",
+      "city": "Nagpur"
+    },
+    {
+      "id": "9",
+      "name": "Vikas More",
+      "age": 29,
+      "email": "vikas@gmail.com",
+      "mobile": "9876543218",
+      "city": "Amravati"
+    },
+    {
+      "id": "10",
+      "name": "Anjali Thakur",
+      "age": 24,
+      "email": "anjali@gmail.com",
+      "mobile": "9876543219",
+      "city": "Pune"
+    },
+    {
+      "name": "katyayani",
+      "email": "katyayani@22",
+      "age": "28",
+      "mobile": "9175884326",
+      "id": "L7SJ-P_Zl4Q"
+    },
+    {
+      "name": "Amit verma",
+      "email": "123456",
+      "age": "30",
+      "mobile": "8645552384",
+      "id": "onoyYGHQRBg"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
